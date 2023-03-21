@@ -1,8 +1,8 @@
 import React from 'react'
 import { Card as AntdCard } from 'antd'
 
-import { createBehavior, createResource } from '@pind/designable-core'
-import { DnFC } from '@pind/designable-react'
+import { createBehavior, createResource } from '@nokecy/designable-core'
+import { DnFC } from '@nokecy/designable-react'
 import { createVoidFieldSchema } from '../Field'
 import { AllSchemas } from '../../schemas'
 import { AllLocales } from '../../locales'

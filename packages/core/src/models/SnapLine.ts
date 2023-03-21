@@ -4,7 +4,7 @@ import {
   IPoint,
   calcOffsetOfSnapLineSegmentToEdge,
   Rect,
-} from '@pind/designable-shared'
+} from '@nokecy/designable-shared'
 import { TreeNode } from './TreeNode'
 import { TransformHelper } from './TransformHelper'
 

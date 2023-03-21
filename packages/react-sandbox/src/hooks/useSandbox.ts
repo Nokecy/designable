@@ -3,8 +3,8 @@ import {
   useLayout,
   usePrefix,
   useWorkspace,
-} from '@pind/designable-react'
-import { globalThisPolyfill } from '@pind/designable-shared'
+} from '@nokecy/designable-react'
+import { globalThisPolyfill } from '@nokecy/designable-shared'
 import { useEffect, useRef } from 'react'
 
 export interface ISandboxProps {

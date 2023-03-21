@@ -1,1 +1,1 @@
-# @pind/designable-core
+# @nokecy/designable-core

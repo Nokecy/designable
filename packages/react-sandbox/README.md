@@ -1,1 +1,1 @@
-# @pind/designable-react-sandbox
+# @nokecy/designable-react-sandbox

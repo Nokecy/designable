@@ -1,1 +1,1 @@
-# @pind/designable-react-settings-form
+# @nokecy/designable-react-settings-form

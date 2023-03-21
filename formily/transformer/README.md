@@ -1,7 +1,7 @@
-# @pind/designable-formily-transformer
+# @nokecy/designable-formily-transformer
 
 ### Install
 
 ```bash
-npm install --save @pind/designable-formily-transformer
+npm install --save @nokecy/designable-formily-transformer
 ```

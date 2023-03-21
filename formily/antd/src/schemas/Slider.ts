@@ -1,4 +1,4 @@
-import { GlobalRegistry } from '@pind/designable-core'
+import { GlobalRegistry } from '@nokecy/designable-core'
 import { ISchema } from '@formily/react'
 
 export const Slider: ISchema = {

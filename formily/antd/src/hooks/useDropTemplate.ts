@@ -1,5 +1,5 @@
-import { AppendNodeEvent, TreeNode } from '@pind/designable-core'
-import { useDesigner } from '@pind/designable-react'
+import { AppendNodeEvent, TreeNode } from '@nokecy/designable-core'
+import { useDesigner } from '@nokecy/designable-react'
 import { matchComponent, matchChildComponent } from '../shared'
 
 export const useDropTemplate = (

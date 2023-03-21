@@ -1,6 +1,6 @@
 import React from 'react'
-import { createBehavior, createResource } from '@pind/designable-core'
-import { DnFC } from '@pind/designable-react'
+import { createBehavior, createResource } from '@nokecy/designable-core'
+import { DnFC } from '@nokecy/designable-react'
 import { createFieldSchema } from '../Field'
 import { Container } from '../../common/Container'
 import { AllLocales } from '../../locales'

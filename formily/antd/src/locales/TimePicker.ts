@@ -1,4 +1,4 @@
-import { createLocales } from '@pind/designable-core'
+import { createLocales } from '@nokecy/designable-core'
 import { DatePicker } from './DatePicker'
 
 export const TimePicker = createLocales(DatePicker, {

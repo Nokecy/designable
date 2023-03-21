@@ -17,15 +17,15 @@ import {
   ViewportPanel,
   SettingsPanel,
   HistoryWidget,
-} from '@pind/designable-react'
-import { SettingsForm, MonacoInput } from '@pind/designable-react-settings-form'
+} from '@nokecy/designable-react'
+import { SettingsForm, MonacoInput } from '@nokecy/designable-react-settings-form'
 import { observer } from '@formily/react'
 import {
   createDesigner,
   createResource,
   createBehavior,
   GlobalRegistry,
-} from '@pind/designable-core'
+} from '@nokecy/designable-core'
 import { Content } from './content'
 import { Space, Button, Radio } from 'antd'
 import { GithubOutlined } from '@ant-design/icons'

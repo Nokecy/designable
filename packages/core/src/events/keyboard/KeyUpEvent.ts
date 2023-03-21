@@ -1,4 +1,4 @@
-import { ICustomEvent } from '@pind/designable-shared'
+import { ICustomEvent } from '@nokecy/designable-shared'
 import { AbstractKeyboardEvent } from './AbstractKeyboardEvent'
 
 export class KeyUpEvent extends AbstractKeyboardEvent implements ICustomEvent {
