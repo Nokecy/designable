@@ -143,6 +143,15 @@ export const createFieldSchema = (
             'x-decorator': 'FormItem',
             'x-component': 'Switch',
           },
+          'x-decorator': {
+            type: 'string',
+            enum: ['Editable', 'FormItem'],
+            'x-decorator': 'FormItem',
+            'x-component': 'Select',
+            'x-component-props': {
+              defaultValue: 'FormItem',
+            },
+          },
         },
       },
       ...createComponentSchema(component, decorator),
